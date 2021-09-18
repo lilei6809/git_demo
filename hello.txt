@@ -1,5 +1,8 @@
 
-version 2.2
+
+version 2.2.1
+
+linghuchong update
 
 updated by github 
 
@@ -7,6 +10,8 @@ hot-fix continue to fix some bug based on version 2.1
 
 hot-fix to fix some bug!
  
+
+22222222222222222 by linghuchong
 
 update hello!!! 
 update hello!!! 
