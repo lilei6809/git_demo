@@ -1,5 +1,10 @@
-version 2.1
+version 2.2
+
+master add new features.
+
 hot-fix to fix some bug!
+ 
+
 update hello!!! 
 update hello!!! 
 update hello!!! 
