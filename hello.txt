@@ -1,4 +1,5 @@
-version 2.0
+version 2.1
+hot-fix to fix some bug!
 update hello!!! 
 update hello!!! 
 update hello!!! 
